@@ -7,7 +7,7 @@ public class GitTest
 		System.out.println("cdfffd");
 	}
 	
-	public void m3()
+	public void m4()
 	{
 		System.out.println("sssssss");
 	}
