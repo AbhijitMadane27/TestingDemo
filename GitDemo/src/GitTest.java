@@ -30,7 +30,7 @@ public class GitTest
 	
 	public void m6()
 	{
-		System.out.println("Chnage by koms");
+		System.out.println("Chnage by kkkkkkkkkkkkkk");
 	}
 	
 
