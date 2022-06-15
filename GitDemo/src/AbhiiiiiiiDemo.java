@@ -21,4 +21,11 @@ public class AbhiiiiiiiDemo
 	   System.out.println("here is m3");
 }
 	
+	 public void m4()
+   {
+	
+	   System.out.println("here is m3");
+}
+
+	
 }
