@@ -12,20 +12,9 @@ public class AbhiiiiiiiDemo
    public void name()
    {
 	
-	   System.out.println("my name us abhhh");
+	   System.out.println("my name is Abhijit");
 }
-   
-   public void m3()
-   {
+ 	
 	
-	   System.out.println("here is m3");
-}
-	
-	 public void m4()
-   {
-	
-	   System.out.println("here is m3");
-}
-
 	
 }
