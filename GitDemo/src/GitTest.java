@@ -28,7 +28,7 @@ public class GitTest
 	}
 	
 	
-	public void m6()
+	public void m7()
 	{
 		System.out.println("Chnage by kkkkkkkkkkkkkk");
 	}
